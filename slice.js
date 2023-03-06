@@ -3,6 +3,6 @@ const sliced = friends.slice(2,4);
 console.log(sliced);
 console.log(friends);
 
-const spliced = friends.splice(2,1);
+const spliced = friends.splice(2,1,5569,4285);
 console.log(spliced);
 console.log(friends);
